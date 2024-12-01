@@ -1,0 +1,7 @@
+.navbar {
+    background-color: #1cb9e4;
+    background-image: linear-gradient(to right top, #1cb9e4, #c4d3dd);
+  }
+  nav img {
+    border-radius: 50px;
+  }

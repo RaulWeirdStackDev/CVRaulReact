@@ -1,0 +1,14 @@
+.cvDescargable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #1cb9e4;
+  margin-inline: 40vw;
+  margin-top: 10px;
+  text-align: center;
+}
+.cvDescargable a {
+  text-decoration: none;
+  color: black;
+}
