@@ -1,31 +1,49 @@
 [
   {
     "id": "e001",
-    "desc": "Desarrollador independiente (2024-Presente)"
+    "cargo": "Desarrollador Web FrontEnd",
+    "empleador": "Independiente",
+    "fecha": "(2024-Presente)",
+    "desc": "Desarrollo de páginas y aplicaciones web frontend responsivas usando html5, css3, manipulación del DOM con Javascript, integración de APIs, y uso de ReactJS para generar un código más mantenible y organizado en componentes.."
   },
 
   {
     "id": "e002",
-    "desc": "Director, fundador y docente del instituto online Radical English (2019-2024)"
+    "cargo": "Director, fundador, y docente",
+    "empleador": "Radical English (Online, Chile)",
+    "fecha": "(2019-2024)",
+    "desc": "Creación y realización de cursos de inglés comunicativo y de preparación de exámenes internacionales, gestión de equipos docentes y administrativos, delegación de tareas, formación en emprendimiento."
   },
 
   {
     "id": "e003",
-    "desc": "Profesor a cargo de talleres extraprogramáticos Cambridge en Scuola Italiana Arturo Dell'Oro (2018-2019)"
+    "cargo":"Profesor de talleres de exámenes Cambridge",
+    "empleador": "Scuola Italiana Arturo Dell'Oro (Valparaíso, Chile)",
+    "fecha":"(2018-2019)",
+    "desc": "Planificación y ejecución de talleres extraprogramáticos para estudiantes de 8° básico y 1° medio preparándose para rendir el examen B1: Preliminary de Cambridge."
   },
 
   {
     "id": "e004",
-    "desc": "Profesor de inglés en el Instituto Chileno Británico de Cultura (2017-2018)"
+    "cargo": "Profesor de inglés",
+    "empleador": "Instituto Chileno Británico de Cultura (Viña del Mar, Chile",
+    "fecha": "(2017-2018)",
+    "desc": "Planificación e implementación de cursos y talleres para jóvenes y adultos tanto para inglés general como para preparación para exámenes internacionales."
   },
 
   {
     "id": "e005",
-    "desc": "Profesor de inglés en escuela especial de adultos E-508 (2017)"
+    "cargo": "Profesor de inglés",
+    "empleador": "Escuela Especial de Adultos E-508",
+    "fecha": "(2017)",
+    "desc": "Profesor en la modalidad de educación de adultos en contexto de encierro dentro del Complejo Penitenciario de Valparaíso."
   },
 
   {
     "id": "e006",
-    "desc": "Profesor de inglés en BestWork English Institute (2016)"
+    "cargo":"Profesor de inglés",
+    "empleador":"BestWork English Institute",
+    "fecha":"(2016)",
+    "desc": "Profesor a cargo de impartir cursos de distintos niveles del idioma y de realizar evaluaciones diagnósticas para determinar conocimientos de base."
   }
 ]
