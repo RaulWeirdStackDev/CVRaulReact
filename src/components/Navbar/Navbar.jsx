@@ -1,6 +1,8 @@
+import { NavLink } from 'react-router-dom';
 import './Navbar.css'
 
 export const Navbar = () => {
+  const setActiveClass = ({ isActive }) => (isActive ? "active" : "inactive");
   return (
     <>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -29,9 +31,7 @@ export const Navbar = () => {
             className="navbar-nav me-auto mb-0 mb-lg-0 fs-2 justify-content-evenly"
           >
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="./index.html"
-                >Inicio</a
-              >
+              <NavLink to="/" className={setActiveClass}>Home</NavLink>              
             </li>
             <li className="nav-item">
               <a className="nav-link" aria-current="page" href="./educación.html"
@@ -39,9 +39,7 @@ export const Navbar = () => {
               >
             </li>
             <li className="nav-item">
-              <a className="nav-link" aria-current="page" href="./experiencia.html"
-                >Experiencia</a
-              >
+            <NavLink to="/experiencia" className={setActiveClass}>Experiencia</NavLink>        
             </li>
             <li className="nav-item">
               <a className="nav-link" aria-current="page" href="./portafolio.html"
