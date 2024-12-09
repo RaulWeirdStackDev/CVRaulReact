@@ -1,7 +1,7 @@
 import experiencia from '../../data/experiencia.json'
 import './Experiencia.css'
 
-const Experiencia = () => {
+export const Experiencia = () => {
   return (
     <div>
         <ul>
@@ -19,5 +19,4 @@ const Experiencia = () => {
   )
 }
 
-export default Experiencia
 

@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import { Footer, Navbar } from "./components"
-import Home from "./views/Home/Home/Home"
-import Experiencia from "./views/Experiencia/Experiencia"
+import {Home, Experiencia, Educacion} from "./views"
 
 function App() {
 
@@ -12,6 +11,7 @@ function App() {
  <Routes>
   <Route path="/" element={<Home/>}/>
   <Route path="/experiencia" element={<Experiencia/>}/>
+  <Route path="/educacion" element={<Educacion/>}/>
  </Routes>
     <Footer/>
     </BrowserRouter>
