@@ -34,17 +34,13 @@ export const Navbar = () => {
               <NavLink to="/" className={setActiveClass}>Home</NavLink>              
             </li>
             <li className="nav-item">
-              <a className="nav-link" aria-current="page" href="./educación.html"
-                >Educación</a
-              >
+            <NavLink to="/educación" className={setActiveClass}>Educación</NavLink> 
             </li>
             <li className="nav-item">
             <NavLink to="/experiencia" className={setActiveClass}>Experiencia</NavLink>        
             </li>
             <li className="nav-item">
-              <a className="nav-link" aria-current="page" href="./portafolio.html"
-                >Portafolio</a
-              >
+            <NavLink to="/portafolio" className={setActiveClass}>Portafolio</NavLink> 
             </li>
           </ul>
         </div>

@@ -6,5 +6,6 @@
     border-radius: 50px;
   }
 
-.inactive {text-decoration: none; color: black;}
-.active{text-decoration: none; color: aliceblue; border-bottom: solid 2px blue; margin-inline:10px}
+.inactive {text-decoration: none; color: gray;}
+.active{text-decoration: none; color: darkblue; border-bottom: solid 3px darkblue;}
+.setActiveClass{margin-inline: 10px;}
