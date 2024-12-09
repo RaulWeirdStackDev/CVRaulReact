@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p001",
+    "tipo": "Magister",
+    "nombre": "Enseñanza del Inglés como Lengua Extranjera",
+    "entidad": "Universidad Andrés Bello, Chile",
+    "fecha": "(2018-2020)",
+    "desc": "Magister profesional orientado a la adquisición de fundamentos teóricos actuales en áreas como la adquisición de una segunda lengua, planificación, evaluación, manejo de curso, desarrollo de materiales pedagógicos; además de formación en investigación académica."
+  },
+
+  {
+    "id":"p002",
+    "tipo":"Certificación del idioma",
+    "nombre":"C2: Proficiency/CPE",
+    "entidad":"University of Cambridge, Inglaterra",
+    "fecha":"(2018)",
+    "desc":"Certificación del dominio del inglés a nivel C2, el más alto del Marco Común Europeo de Referencia (CEFR)."
+  },
+
+  {
+    "id":"p003",
+    "tipo":"Certificación de metodología",
+    "nombre": "TKT/Teaching Knowledge Test Modules 1,2 & 3",
+    "entidad":"University of Cambridge, Inglaterra",
+    "fecha":"(2016)",
+    "desc":"Certificación del dominio de metodologías de enseñanza del inglés en áres como el conocimiento de la estructura del idioma, metodologías actuales, y trabajo en aula."
+  },
+
+  {
+    "id":"p004",
+    "tipo": "Título Profesional",
+    "nombre":"Licenciado en Educación y Profesor de Inglés",
+    "entidad":"Pontificia Universidad Católica de Valparaíso, Chile",
+    "fecha":"(2012-2016)",
+    "desc":"Carrera profesional de nueve semestres de duración, que incluyó formación en el idioma, conocimientos de linguística, literatura, y metodología en áreas como evaluación y planificación."
+  }
+]

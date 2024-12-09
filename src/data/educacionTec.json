@@ -1,0 +1,65 @@
+[
+  {
+    "id": "t001",
+    "tipo": "Bootcamp",
+    "nombre": "Desarrollo Fullstack Javascript",
+    "entidad": "Desafío Latam, Chile",
+    "fecha": "(2024-Presente)",
+    "desc": "Curso práctico de un año de duración que involucra el aprendizaje de Desarrollo FrontEnd con tecnologías como HTML5, CSS3, Javascript ES6 y React. Adicionalmente, también se incluye Desarrollo Backend usando NodeJS y gestión de bases de datos con SQL."
+  },
+
+  {
+    "id":"t002",
+    "tipo":"Técnico de Nivel Superior",
+    "nombre":"Analista Programador",
+    "entidad":"CFT Cenco, Chile",
+    "fecha":"(2024-Presente)",
+    "desc":"Programa de formación técnico profesional que incluye formación en áreas como paradigmas de programación, bases de datos, gestión de proyectos, y otros temas relevantes en la industria tecnológica."
+  },
+
+  {
+    "id":"t003",
+    "tipo":"Diplomado",
+    "nombre":"UX/UI Aplicado al Desarrollo Web",
+    "entidad":"SENCE y Fundación Telefónica, Chile",
+    "fecha":"(2024)",
+    "desc":"Diplomado principalmente asincrónico que incluye principios de experiencia de usuario, conocimiento de desarrollo de interfaces de usuarios usando tecnologías frontend, y fundamentos de ciberseguridad."
+  },
+
+  {
+    "id":"t004",
+    "tipo":"Curso en Vivo",
+    "nombre": "Adopción del Mindset Ágil: Contexto Agile",
+    "entidad":"Academia Ágil, México",
+    "fecha":"(2024)",
+    "desc": "Curso introductorio a las metodologías ágiles para gestión de proyectos en la industria tecnológica."
+  },
+
+  {
+    "id":"t005",
+    "tipo":"Curso Asincrónico",
+    "nombre": "CSS Avanzado",
+    "entidad":"Desafío Latam, Chile",
+    "fecha":"(2024)",
+    "desc":"Curso asincrónico de profundización en CSS, incluyendo propiedades como Flexbox, CSS Grid, y Media Queries para desarrollar diseños responsivos."
+  },
+
+  {
+    "id":"t006",
+    "tipo":"Curso Asincrónico",
+    "nombre":"Introducción al Desarrollo Web ",
+    "entidad":"Desafío Latam, Chile",
+    "fecha":"(2023)",
+    "desc": "Curso introductorio al desarrollo web para páginas web estáticas, cubriendo tecnologías como HTML5, CSS3, además del trabajo de control de versiones con Git y GitHub."
+  },
+
+  {
+    "id":"t007",
+    "tipo":"Curso Asincrónico",
+    "nombre":"Reparación y Armado de Computadores",
+    "entidad": "Comunidad Reparando, Argentina",
+    "fecha":"(2023)",
+    "desc": "Curso para conocer fundamentos de hardware y sobre la limpieza, el mantenimiento, y reemplazo de componentes para computadores de escritorio."
+  }
+]
+
