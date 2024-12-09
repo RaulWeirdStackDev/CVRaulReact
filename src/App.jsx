@@ -1,17 +1,18 @@
-import Navbar from "./components/Navbar/Navbar"
-// import Home from "./views/Home/Home/Home"
-import Footer from "./components/Footer/Footer"
-import Experiencia from "./views/Experiencia/Experiencia"
+import { BrowserRouter } from "react-router-dom"
+import { Footer, Navbar } from "./components"
+import Home from "./views/Home/Home/Home"
+// import Experiencia from "./views/Experiencia/Experiencia"
 
 function App() {
 
   return (
     <>
+    <BrowserRouter>
     <Navbar/>
-    {/* <Home/> */}
-    <Experiencia/>
+    <Home/>
+    {/* <Experiencia/> */}
     <Footer/>
-
+    </BrowserRouter>
     </>
   )
 }

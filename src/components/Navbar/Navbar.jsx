@@ -1,6 +1,6 @@
 import './Navbar.css'
 
-const Navbar = () => {
+export const Navbar = () => {
   return (
     <>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -55,5 +55,3 @@ const Navbar = () => {
     </>
   )
 }
-
-export default Navbar

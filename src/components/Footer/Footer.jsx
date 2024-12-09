@@ -1,6 +1,6 @@
 import './Footer.css'
 
-const Footer = () => {
+export const Footer = () => {
   return (
     <>
     <footer
@@ -33,4 +33,3 @@ const Footer = () => {
   )
 }
 
-export default Footer
