@@ -1,0 +1,11 @@
+.experiencia{
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    align-items: center;
+    background: white no-repeat center;
+    max-width: 55vw;
+    margin-top: 20px;
+}
+
+.experiencia ul{list-style: none;}

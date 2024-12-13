@@ -1,8 +1,9 @@
 import { NavLink } from 'react-router-dom';
 import './Navbar.css'
+import { setActiveClass } from '../../utilities/setActive';
 
 export const Navbar = () => {
-  const setActiveClass = ({ isActive }) => (isActive ? "active" : "inactive");
+
   return (
     <>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">

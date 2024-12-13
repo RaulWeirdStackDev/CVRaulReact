@@ -3,8 +3,9 @@
   justify-content: center;
   align-items: center;
   padding: 10px;
+  padding-block: 10px;
   background-color: #1cb9e4;
-  margin-inline: 40vw;
+  margin-inline: 35vw;
   margin-top: 10px;
   text-align: center;
 }

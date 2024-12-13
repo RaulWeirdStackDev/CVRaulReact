@@ -4,7 +4,7 @@ const Perfil = () => {
   return (
     <>
     <article className="características mt-5">
-      <h2>Perfil Profesional</h2>
+      <h2 className='perfil'>Perfil Profesional</h2>
       <div className="contenedor">
         <div className="icono">
           <i className="fa-solid fa-chalkboard-user"></i>

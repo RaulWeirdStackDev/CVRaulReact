@@ -3,7 +3,7 @@ import './Experiencia.css'
 
 export const Experiencia = () => {
   return (
-    <div>
+    <div className='experiencia'>
         <ul>
         {experiencia.map((experiencia) => (
             <li key={experiencia.id}>

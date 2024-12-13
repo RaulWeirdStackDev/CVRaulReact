@@ -8,4 +8,3 @@
 
 .inactive {text-decoration: none; color: gray;}
 .active{text-decoration: none; color: darkblue; border-bottom: solid 3px darkblue;}
-.setActiveClass{margin-inline: 10px;}
