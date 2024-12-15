@@ -12,7 +12,6 @@ export const Educacion = () => {
               <h3>{educacion.tipo}: {educacion.nombre}</h3>
               <h5>{educacion.entidad}</h5>
               <p>{educacion.fecha}</p>
-              <p>{educacion.desc}</p>
             </li>
           ))}
         </ul>
