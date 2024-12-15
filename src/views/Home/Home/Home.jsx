@@ -1,6 +1,4 @@
-import Perfil from "../Perfil/Perfil"
-import Descripcion from "../Descripcion/Descripcion"
-import CVenPDF from "../CVenPDF/CVenPDF"
+import {Perfil, Descripcion, CVenPDF} from '../index' 
 
 export const Home = () => {
   return (

@@ -1,6 +1,6 @@
 import './CVenPDF.css'
 
-const CVenPDF = () => {
+export const CVenPDF = () => {
   return (
     <div className="cvDescargable">
     <a href="/CVRaulR.pdf" target="_blank"
@@ -10,4 +10,3 @@ const CVenPDF = () => {
   )
 }
 
-export default CVenPDF

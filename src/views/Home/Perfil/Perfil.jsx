@@ -1,6 +1,6 @@
 import './Perfil.css'
 
-const Perfil = () => {
+export const Perfil = () => {
   return (
     <>
     <article className="características mt-5">
@@ -26,4 +26,3 @@ const Perfil = () => {
   )
 }
 
-export default Perfil
