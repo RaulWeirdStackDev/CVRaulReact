@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import './Navbar.css'
+import './navbar.css'
 import { setActiveClass } from '../../utilities/setActive';
 
 export const Navbar = () => {

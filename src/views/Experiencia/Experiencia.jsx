@@ -1,5 +1,5 @@
 import experiencia from '../../data/experiencia.json'
-import './Experiencia.css'
+import './experiencia.css'
 
 export const Experiencia = () => {
   return (

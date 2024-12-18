@@ -1,4 +1,4 @@
-import './Descripcion.css'
+import './descripcion.css'
 import TextoDescripción from './TextoDescripcion/TextoDescripcion'
 import VideoPerfil from './VideoPerfil/VideoPerfil'
 

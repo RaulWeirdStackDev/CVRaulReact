@@ -1,4 +1,4 @@
-import './Perfil.css'
+import './perfil.css'
 
 export const Perfil = () => {
   return (

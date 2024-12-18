@@ -1,4 +1,4 @@
-import './CVenPDF.css'
+import './cVenPDF.css'
 
 export const CVenPDF = () => {
   return (
