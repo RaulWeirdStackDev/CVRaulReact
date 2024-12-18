@@ -1,3 +1,4 @@
+import './educacion.css'
 import educacionTec from '../../data/educacionTec.json';
 import educacionPed from '../../data/educacionPed.json';
 
