@@ -1,0 +1,3 @@
+body{display: flex; justify-content: center;}
+.portafolio{display: flex; justify-content: center; margin-top: 20px;}
+.portafolio img {height: 300px; width: auto; justify-self: center;}

@@ -1,14 +1,14 @@
 [
   {
     "id": "po1",
-    "img": "/sangomvistabrowser",
+    "img": "/sangomvistabrowser.png",
     "title": "Sitio Web de San-Gom Taekwondo Center, vista desktop (2024)",
     "desc": "Vista de escritorio de la página web de la academia de Taekwondo San-Gom de Villa Alemana, V región, Chile."
   },
 
   {
     "id": "po2",
-    "img": "/sangomvistamovil",
+    "img": "/sangomvistamovil.jpeg",
     "title": "Sitio Web de San-Gom Taekwondo Center, vista móvil (2024)",
     "desc": "Vista móvil de la página web de la academia de Taekwondo San-Gom de Villa Alemana, V región, Chile."
   }
