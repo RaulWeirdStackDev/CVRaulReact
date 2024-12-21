@@ -5,7 +5,8 @@ import educacionPed from '../../data/educacionPed.json';
 export const Educacion = () => {
   return (
     <>
-      <div>
+    <div className="contenedor">
+      <div className='tec'>
         <h2>Formación en Tecnología </h2>
         <ul>
           {educacionTec.map((educacion) => (
@@ -18,7 +19,7 @@ export const Educacion = () => {
         </ul>
       </div>
 
-      <div>
+      <div className='ped'>
         <h2>Formación en Educación</h2>
         <ul>
           {educacionPed.map((educacion) => (
@@ -29,6 +30,7 @@ export const Educacion = () => {
             </li>
           ))}
         </ul>
+      </div>
       </div>
     </>
   );
