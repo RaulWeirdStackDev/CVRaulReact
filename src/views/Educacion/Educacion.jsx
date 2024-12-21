@@ -6,7 +6,7 @@ export const Educacion = () => {
   return (
     <>
       <div>
-        <h2>Formación Técnica</h2>
+        <h2>Formación en Tecnología </h2>
         <ul>
           {educacionTec.map((educacion) => (
             <li key={educacion.id}>
@@ -19,7 +19,7 @@ export const Educacion = () => {
       </div>
 
       <div>
-        <h2>Formación Pedagógica</h2>
+        <h2>Formación en Educación</h2>
         <ul>
           {educacionPed.map((educacion) => (
             <li key={educacion.id}>
