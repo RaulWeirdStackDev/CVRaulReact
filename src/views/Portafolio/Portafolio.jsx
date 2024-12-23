@@ -9,15 +9,16 @@ export const Portafolio = () => {
             {portafolio.map((portafolio)=>(
                 <li key={portafolio.id}>
                     <img src={portafolio.img} alt={portafolio.title} />
-                    <h3>{portafolio.title}</h3>
-                    <p>{portafolio.desc}</p>
+
+                    <h3 >{portafolio.title}</h3>
+                    <p >{portafolio.desc}</p>
+                   
                 </li>
 
 
             ) 
         )}
         </ul>
-
     </div>
   )
 }

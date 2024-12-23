@@ -18,9 +18,5 @@ body {
     }
 
 
-    .experiencia {
-      display: grid;
-      grid-column: auto;
-    }
-    .cvDescargable{margin-inline: 10vw;}
+ 
   }

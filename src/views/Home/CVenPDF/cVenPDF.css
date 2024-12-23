@@ -13,3 +13,10 @@
   text-decoration: none;
   color: black;
 }
+
+@media (max-width:576px){
+  .cvDescargable{
+    margin-inline: 10vw;
+    width: 100vw;
+  }
+}
