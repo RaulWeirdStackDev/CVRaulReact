@@ -1,4 +1,37 @@
 body {
     background-color: #64b0c5;
     background-image: linear-gradient(to right top, #8addf4, #c4d3dd);
+  /* cursor: url("/rauli.png"), auto; */
+
+  } 
+
+
+  @media (max-width: 576px) {
+    body{max-width: 100%; margin: 0;}
+    footer {
+      position: relative;
+      bottom: auto;
+      text-align: center;
+    }
+    .características {
+      display: none;
+    }
+    .main {
+      overflow: auto;
+    }
+    .descripción img {
+      display: none;
+    }
+    .descripción {
+      max-width: 90vw;
+    }
+    .desc1 {
+      display: none;
+    }
+
+    .experiencia {
+      display: grid;
+      grid-column: auto;
+    }
+    .cvDescargable{margin-inline: 10vw;}
   }
