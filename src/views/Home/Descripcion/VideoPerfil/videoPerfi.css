@@ -5,3 +5,10 @@
   align-items: center;
   margin-left: 20px;
 }
+
+@media(max-width: 576px){
+  .contenedorVideo{
+    display: flex;
+    justify-self: center;
+  }
+}
