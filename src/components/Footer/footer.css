@@ -1,7 +1,7 @@
 footer {
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 100vw;
     background-color: #1cb9e4;
     background-image: linear-gradient(to right top, #1cb9e4, #c4d3dd);
   }
