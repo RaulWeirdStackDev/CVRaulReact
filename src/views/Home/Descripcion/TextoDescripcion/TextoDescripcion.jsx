@@ -1,4 +1,4 @@
-
+import './textoDescripción.css'
 
 const TextoDescripción = () => {
   return (
