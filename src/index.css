@@ -13,9 +13,7 @@ body {
       bottom: auto;
       text-align: center;
     }
-    .características {
-      display: none;
-    }
+
     .main {
       overflow: auto;
     }
@@ -25,9 +23,7 @@ body {
     .descripción {
       max-width: 90vw;
     }
-    .desc1 {
-      display: none;
-    }
+
 
     .experiencia {
       display: grid;
