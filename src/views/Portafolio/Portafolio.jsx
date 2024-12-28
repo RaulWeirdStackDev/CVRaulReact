@@ -7,11 +7,11 @@ export const Portafolio = () => {
 
             <ul>
             {portafolio.map((portafolio)=>(
-                <li key={portafolio.id}>
+                <li key={portafolio.id} className='portEle'>
                     <img src={portafolio.img} alt={portafolio.title} />
 
-                    <h3 >{portafolio.title}</h3>
-                    <p >{portafolio.desc}</p>
+                    <h3 className='portTitle' >{portafolio.title}</h3>
+                    <p className='portDesc' >{portafolio.desc}</p>
                    
                 </li>
 

@@ -1,3 +1,28 @@
-body{display: flex; justify-content: center;}
-.portafolio{display: flex; justify-content: center; margin-top: 20px;}
-.portafolio img {height: 300px; width: auto; justify-self: center;}
+body {
+  display: flex;
+  justify-content: center;
+}
+.portafolio {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.portEle img {
+  height: auto;
+  width: 300px;
+}
+.portEle {
+  background-color: white;
+  border: solid darkblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-block: 20px;
+  padding: 30px;
+}
+
+.portTitle {
+   
+    margin-top: 10px;
+}
