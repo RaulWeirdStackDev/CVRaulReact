@@ -4,7 +4,7 @@
     "id": "po1",
     "img": "/VoiceCalc.png",
     "title": "VoiceCalc, Calculadora con Reconocimiento de Voz (2025)",
-    "desc": "Vista de escritorio de la aplicación web VoiceCalc, desarrollada  con tecnologías de reconocimiento de voz tanto en inglés como español utilizando la Web Speech API de Google .",
+    "desc": "La aplicación web VoiceCalc, desarrollada  con tecnologías de reconocimiento de voz tanto en inglés como español utilizando la Web Speech API de Google, apunta a promover una experiencia más inclusiva y accesible al permitir a los usuarios interactuar con la calculadora utilizando voz en lugar del teclado o el mouse.",
     "link": "https://voice-calc.vercel.app/"
   },
 
@@ -18,8 +18,8 @@
 
   {
     "id": "po3",
-    "img": "/sangom.png",
-    "title": "San-Gom Taekwondo , sitio web estático (2024)",
+    "img": "/sangomvistamovil.jpeg",
+    "title": "San-Gom Taekwondo, sitio web estático (2024)",
     "desc": "Sitio web de la academia de Taekwondo San-Gom de Villa Alemana, V región, Chile. Esta página fue desarrollada con tecnologías de HTML, CSS y JavaScript. Además, se utilizó el framework Bootstrap, CSS Grid y Media Queries para el diseño responsivo de la página con el fin de ofrecer una experiencia de calidad en diferentes tipos de dispositivos. La página cuenta con un mapa de ubicación de la academia usando Google Maps. ",
     "link": "https://sangomtaekwondo.cl/"
   },

@@ -1,6 +1,7 @@
 body {
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 .portafolio {
   display: flex;
@@ -18,8 +19,10 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   margin-block: 20px;
   padding: 30px;
+  width: 70vw;
 }
 
 .portEle a {
@@ -35,4 +38,14 @@ body {
 .portTitle {
    
     margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .portEle img {
+    height: auto;
+    width: 60vw;
+  }
+  body{
+    overflow-x: hidden;
+  }
 }
