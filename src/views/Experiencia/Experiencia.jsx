@@ -1,30 +1,30 @@
-import { useState, useEffect } from "react";
+// import { useState, useEffect } from "react";
 import experiencia from "../../data/experiencia.json";
 import "./experiencia.css";
-import playerImage from "/raulBg.png"; // Asegúrate de importar la imagen
+// import playerImage from "/raulBg.png";
 
 export const Experiencia = () => {
-  const [position, setPosition] = useState({ x: 100, y: 100 }); // Posición inicial
-  const speed = 10; // Velocidad del movimiento
+  // const [position, setPosition] = useState({ x: 100, y: 100 }); // Posición inicial
+  // const speed = 10; // Velocidad del movimiento
 
-  useEffect(() => {
-    const handleKeyDown = (event) => {
-      setPosition((prev) => {
-        let newX = prev.x;
-        let newY = prev.y;
+  // useEffect(() => {
+  //   const handleKeyDown = (event) => {
+  //     setPosition((prev) => {
+  //       let newX = prev.x;
+  //       let newY = prev.y;
 
-        if (event.key === "ArrowUp") newY -= speed;
-        if (event.key === "ArrowDown") newY += speed;
-        if (event.key === "ArrowLeft") newX -= speed;
-        if (event.key === "ArrowRight") newX += speed;
+  //       if (event.key === "ArrowUp") newY -= speed;
+  //       if (event.key === "ArrowDown") newY += speed;
+  //       if (event.key === "ArrowLeft") newX -= speed;
+  //       if (event.key === "ArrowRight") newX += speed;
 
-        return { x: newX, y: newY };
-      });
-    };
+  //       return { x: newX, y: newY };
+  //     });
+  //   };
 
-    window.addEventListener("keydown", handleKeyDown);
-    return () => window.removeEventListener("keydown", handleKeyDown);
-  }, []);
+  //   window.addEventListener("keydown", handleKeyDown);
+  //   return () => window.removeEventListener("keydown", handleKeyDown);
+  // }, []);
 
   return (
     <div className="experiencia">
@@ -38,7 +38,7 @@ export const Experiencia = () => {
         ))}
       </ul>
 
-      {/* Imagen con movimiento */}
+      {/* Imagen con movimiento 
       <img
         src={playerImage}
         alt="Jugador"
@@ -46,10 +46,10 @@ export const Experiencia = () => {
           position: "absolute",
           top: `${position.y}px`,
           left: `${position.x}px`,
-          width: "50px", // Ajusta el tamaño
+          width: "50px", 
           height: "50px",
         }}
-      />
+      />*/}
     </div>
   );
 };
