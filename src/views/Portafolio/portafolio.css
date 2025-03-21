@@ -22,7 +22,7 @@ body {
   text-align: center;
   margin-block: 20px;
   padding: 30px;
-  width: 70vw;
+  width: 50vw;
 }
 
 .portEle a {
@@ -45,11 +45,20 @@ body {
 }
 
 @media (max-width: 768px) {
+
+  .portEle {
+    width: 80vw;
+  }
   .portEle img {
     height: auto;
     width: 60vw;
   }
+  .portEle p{
+    margin-inline: 0;
+    font-size: 15px;
+  }
   body{
     overflow-x: hidden;
+    margin-inline: 0;
   }
 }
