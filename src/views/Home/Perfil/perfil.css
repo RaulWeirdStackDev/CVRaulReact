@@ -32,7 +32,7 @@
     opacity: 1;
     transition: all 0.3s ease-in;
   }
-  .icono:hover{color: blue;}
+  .icono:hover{color: darkblue;}
 
   .icono i {
     font-size: 4rem;
