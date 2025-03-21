@@ -35,6 +35,10 @@ body {
   text-decoration: underline blue;
 }
 
+.portEle p{
+  margin-inline: 30px;
+}
+
 .portTitle {
    
     margin-top: 10px;
