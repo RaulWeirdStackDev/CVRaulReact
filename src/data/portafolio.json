@@ -19,7 +19,7 @@
   {
     "id": "po3",
     "img": "/sangomvistamovil.jpeg",
-    "title": "San-Gom Taekwondo, sitio web estático (2024)",
+    "title": "San-Gom Taekwondo, sitio web responsivo (2024)",
     "desc": "Sitio web de la academia de Taekwondo San-Gom de Villa Alemana, V región, Chile. Esta página fue desarrollada con tecnologías de HTML, CSS y JavaScript. Además, se utilizó el framework Bootstrap, CSS Grid y Media Queries para el diseño responsivo de la página con el fin de ofrecer una experiencia de calidad en diferentes tipos de dispositivos. La página cuenta con un mapa de ubicación de la academia usando Google Maps. ",
     "link": "https://sangomtaekwondo.cl/"
   },
