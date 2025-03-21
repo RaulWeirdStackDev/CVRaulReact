@@ -9,9 +9,9 @@ export const Portafolio = () => {
             {portafolio.map((portafolio)=>(
                 <li key={portafolio.id} className='portEle'>
                     <img src={portafolio.img} alt={portafolio.title} />
-
                     <h3 className='portTitle' >{portafolio.title}</h3>
                     <p className='portDesc' >{portafolio.desc}</p>
+                    <a href={portafolio.link} target="_blank">Mira este proyecto aquí</a>
                    
                 </li>
 

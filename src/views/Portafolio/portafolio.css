@@ -8,8 +8,8 @@ body {
   margin-top: 20px;
 }
 .portEle img {
-  height: auto;
-  width: 20vw;
+  height: 250px;
+  width: auto;
 }
 .portEle {
   background-color: white;
@@ -20,6 +20,16 @@ body {
   align-items: center;
   margin-block: 20px;
   padding: 30px;
+}
+
+.portEle a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+.portEle a:hover {
+  text-decoration: underline blue;
 }
 
 .portTitle {
