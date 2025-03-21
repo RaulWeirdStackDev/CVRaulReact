@@ -6,6 +6,9 @@
     background: white no-repeat center;
     max-width: 55vw;
     margin-top: 20px;
+    border-radius: 10px;
+    border: solid darkblue;
+    padding: 30px;
 }
 
 .experiencia ul{list-style: none;}

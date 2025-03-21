@@ -23,6 +23,7 @@ body {
   margin-block: 20px;
   padding: 30px;
   width: 50vw;
+  border-radius: 10px;
 }
 
 .portEle a {
