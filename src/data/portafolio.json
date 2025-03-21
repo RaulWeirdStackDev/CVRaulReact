@@ -1,25 +1,43 @@
 [
   {
     "id": "po1",
-    "img": "/sangomvistabrowser.png",
-    "title": "Sitio Web de San-Gom Taekwondo Center, vista desktop (2024)",
-    "desc": "Vista de escritorio de la página web de la academia de Taekwondo San-Gom de Villa Alemana, V región, Chile. Esta página fue desarrollada con tecnologías de HTML, CSS y JavaScript. Además, se utilizó el framework Bootstrap para el diseño responsivo de la página con el fin de ofrecer una experiencia de calidad en diferentes tipos de dispositivos. La página cuenta con un mapa de ubicación de la academia usando Google Maps. ",
-    "link": "https://sangomtaekwondo.cl/"
-  },
-
-  {
-    "id": "po2",
     "img": "/out_of_eden.png",
-    "title": "Out of Eden, vista de escritorio (2025)",
+    "title": "Out of Eden, video juego 2D para la web (2025)",
     "desc": "Vista de escritorio del video juego Out of Eden, desarrollado con el frameword Phaser 3 para la creación de juegos 2D con JavaScript.",
     "link": "https://out-of-eden.vercel.app/"
   },
 
   {
-    "id": "po3",
+    "id": "po2",
     "img": "/VoiceCalc.png",
     "title": "VoiceCalc, Calculadora con Reconocimiento de Voz (2025)",
     "desc": "Vista de escritorio de la aplicación web VoiceCalc, desarrollada  con tecnologías de reconocimiento de voz tanto en inglés como español utilizando la Web Speech API de Google .",
     "link": "https://voice-calc.vercel.app/"
+  },
+
+  {
+    "id": "po3",
+    "img": "/sangomvistabrowser.png",
+    "title": "Sitio Web de la academia San-Gom Taekwondo Center, vista desktop (2024)",
+    "desc": "Vista de escritorio de la página web de la academia de Taekwondo San-Gom de Villa Alemana, V región, Chile. Esta página fue desarrollada con tecnologías de HTML, CSS y JavaScript. Además, se utilizó el framework Bootstrap para el diseño responsivo de la página con el fin de ofrecer una experiencia de calidad en diferentes tipos de dispositivos. La página cuenta con un mapa de ubicación de la academia usando Google Maps. ",
+    "link": "https://sangomtaekwondo.cl/"
+  },
+
+  {
+    "id": "po4",
+    "img": "/sangomvistamovil.jpeg",
+    "title": "Sitio Web de la academia San-Gom Taekwondo Center, vista movil (2024)",
+    "desc": "Vista móvil de la página web de la academia de Taekwondo San-Gom de Villa Alemana, V región, Chile. Esta página fue desarrollada con tecnologías de HTML, CSS y JavaScript. Además, se utilizó el framework Bootstrap para el diseño responsivo de la página con el fin de ofrecer una experiencia de calidad en diferentes tipos de dispositivos. La página cuenta con un mapa de ubicación de la academia usando Google Maps. ",
+    "link": "https://sangomtaekwondo.cl/"
+  },
+
+  {
+    "id": "po5",
+    "img": "/porcentajes.png",
+    "title": "Ejercicios de Porcentajes, Aplicación Educativa (2025)",
+    "desc": "Aplicación web que genera ejercicios de porcentajes de forma aleatoria para que el usuario pueda practicar y mejorar sus habilidades en matemáticas, además de recibir retroalimentación de los ejercicios realizados.",
+    "link": "https://raulrc86.github.io/EjerciciosPorcentajes/"
   }
+
+
 ]
