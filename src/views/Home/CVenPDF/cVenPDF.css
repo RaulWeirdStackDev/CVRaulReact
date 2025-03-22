@@ -1,11 +1,11 @@
 .cvDescargable {
   display: flex;
   justify-content: center;
-  align-items: center;
   padding: 10px;
   padding-block: 10px;
   background-color: #1cb9e4;
-  margin-inline: 35vw;
+  width: 100%;
+  margin: 1rem 0;
   margin-top: 10px;
   text-align: center;
 }
@@ -16,7 +16,17 @@
 
 @media (max-width:576px){
   .cvDescargable{
-    margin-inline: 10vw;
-    width: 100vw;
+    display: flex;
+    justify-content: center;
+    width: 90vw;
+  }
+}
+
+@media (min-width:576px){
+  .cvDescargable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
   }
 }

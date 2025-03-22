@@ -12,3 +12,12 @@
 }
 
 .experiencia ul{list-style: none;}
+
+
+@media (max-width:576px){
+    footer {
+        position: relative;
+        bottom: 0;
+        text-align: center;
+      }
+  }
