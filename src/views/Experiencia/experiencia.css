@@ -4,7 +4,7 @@
     justify-self: center;
     align-items: center;
     background: white no-repeat center;
-    max-width: 55vw;
+    width: 55vw;
     margin-top: 20px;
     border-radius: 10px;
     border: solid darkblue;
@@ -20,4 +20,7 @@
         bottom: 0;
         text-align: center;
       }
+    .experiencia{
+        width: 80vw
+    }
   }
