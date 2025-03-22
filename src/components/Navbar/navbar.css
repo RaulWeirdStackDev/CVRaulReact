@@ -7,5 +7,7 @@
     border-radius: 50px;
   }
 
-.inactive {text-decoration: none; color: gray;}
-.active{text-decoration: none; color: darkblue; border-bottom: solid 3px darkblue;}
+
+@media (min-width: 576px) {
+  .nav-link.active{text-decoration: none; color: darkblue; border-bottom: solid 3px darkblue;}
+}
