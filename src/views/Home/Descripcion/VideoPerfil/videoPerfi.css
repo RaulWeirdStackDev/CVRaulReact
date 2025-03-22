@@ -10,5 +10,6 @@
   .contenedorVideo{
     display: flex;
     justify-self: center;
+    margin-top: 10px;
   }
 }
