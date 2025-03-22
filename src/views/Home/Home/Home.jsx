@@ -7,7 +7,7 @@ export const Home = () => {
     <main className="main">
     <Perfil/>
     <Descripcion/>
-    <CVenPDF/>
+    <CVenPDF className="cvDescargable"/>
     </main>
     </>
   )
