@@ -1,5 +1,5 @@
 import {Perfil, Descripcion, CVenPDF} from '../index' 
-
+import './home.css'
 
 export const Home = () => {
   return (
@@ -7,7 +7,6 @@ export const Home = () => {
     <main className="main">
     <Perfil/>
     <Descripcion/>
-
     <CVenPDF/>
     </main>
     </>

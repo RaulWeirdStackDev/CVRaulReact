@@ -1,6 +1,7 @@
 .cvDescargable {
   display: flex;
   justify-content: center;
+  align-items: center;
   padding: 10px;
   padding-block: 10px;
   background-color: #1cb9e4;
@@ -22,11 +23,4 @@
   }
 }
 
-@media (min-width:576px){
-  .cvDescargable{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 50vw;
-  }
-}
+
