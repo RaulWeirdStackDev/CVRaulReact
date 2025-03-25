@@ -1,7 +1,14 @@
 [
-  
   {
     "id": "po1",
+    "img": "/hablaConmigo.png",
+    "title": "Habla Conmigo, aplicación de comunicación aumentativa y alternativa para personas no verbales (2025)",
+    "desc": "Habla Conmigo es una aplicación web de comunicación aumentativa y alternativa (CAA) que permite a personas no verbales comunicarse a través de pictogramas y voz sintetizada. La aplicación fue desarrollada con tecnologías como HTML, CSS y JavaScript, además de la Web Speech API para la síntesis de voz.",
+    "link": "https://hablaconmigoapp.netlify.app/"
+  }
+,
+  {
+    "id": "po2",
     "img": "/VoiceCalc.png",
     "title": "VoiceCalc, Calculadora con Reconocimiento de Voz (2025)",
     "desc": "La aplicación web VoiceCalc, desarrollada  con tecnologías de reconocimiento de voz tanto en inglés como español utilizando la Web Speech API de Google, apunta a promover una experiencia más inclusiva y accesible al permitir a los usuarios interactuar con la calculadora utilizando voz en lugar del teclado o el mouse.",
@@ -9,7 +16,7 @@
   },
 
   {
-    "id": "po2",
+    "id": "po3",
     "img": "/out_of_eden.png",
     "title": "Out of Eden, video juego 2D para la web (2025)",
     "desc": "Vista de escritorio del video juego Out of Eden, desarrollado con el frameword Phaser 3 para la creación de juegos 2D con JavaScript.",
@@ -17,7 +24,7 @@
   },
 
   {
-    "id": "po3",
+    "id": "po4",
     "img": "/NotasApp.png",
     "title": "NotasApp, aplicación web de registro de notas (2025)",
     "desc": "Formulario de registro de la aplicación web NotasApp, proyecto colaborativo para el que contribuí con el desarrollo del frontend utilizando JavaScript Vanilla, HTML5 y CSS3.",
@@ -25,7 +32,7 @@
   },
 
   {
-    "id": "po4",
+    "id": "po5",
     "img": "/sangomvistamovil.jpeg",
     "title": "San-Gom Taekwondo, sitio web responsivo (2024)",
     "desc": "Sitio web de la academia de Taekwondo San-Gom de Villa Alemana, V región, Chile. Esta página fue desarrollada con tecnologías de HTML, CSS y JavaScript. Además, se utilizó el framework Bootstrap, CSS Grid y Media Queries para el diseño responsivo de la página con el fin de ofrecer una experiencia de calidad en diferentes tipos de dispositivos. La página cuenta con un mapa que muestra la ubicación de la academia utilizando Google Maps con el fin de facilitar el contacto de la academia con sus clientes. ",
@@ -33,7 +40,7 @@
   },
 
   {
-    "id": "po5",
+    "id": "po6",
     "img": "/porcentajes.png",
     "title": "Ejercicios de Porcentajes, aplicación Educativa (2024)",
     "desc": "Aplicación web que genera ejercicios de porcentajes de forma aleatoria para que el usuario pueda practicar y mejorar sus habilidades en matemáticas, además de recibir retroalimentación de los ejercicios realizados.",
