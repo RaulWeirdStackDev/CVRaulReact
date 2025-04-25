@@ -16,14 +16,14 @@ export const Footer = () => {
 
         <div>
           <a
-            href="https://www.linkedin.com/in/raulrc86/"
+            href="https://www.linkedin.com/in/RaulWeirdStackDev/"
             target="_blank"
             ><i className="fa-brands fa-linkedin"></i>
             </a>
         </div>
 
         <div>
-          <a href="https://github.com/RaulRC86" target="_blank"
+          <a href="https://github.com/RaulWeirdStackDev" target="_blank"
             ><i className="fa-brands fa-github"></i>
             </a>
         </div>
